@@ -1,0 +1,4 @@
+# Task 1
+# Write a script that would take one argument - a GitHub repository address
+# Clone this repository
+# If the repository is a Maven project (i.e. top directory contains a pom.xml file) print "Maven" else print "Not Maven"
